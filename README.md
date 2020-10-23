@@ -1,4 +1,4 @@
-# NightWlkers
+# NightWalkers
 
 > - ***Programmed*** by d4k5h35h
 > - ***Music*** and ***sfx*** by d4k5h35h
